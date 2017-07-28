@@ -5,4 +5,5 @@
 * [2.A New Book](2_a-new-book.md)
 * [3.Editor Book](3editor-book.md)
 * 4.How to use GitBook
+* 5.For publish
 

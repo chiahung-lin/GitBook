@@ -1,8 +1,8 @@
-# My Awesome Book
+# My First Book
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+#### 這本書將記錄我使用GitBook的使用心得與發現，如有錯誤請E-mail: chia.hung.lin.bio@gmail.com，謝謝!
+
+#### eBook:  [https://chiahung-lin.gitbooks.io/gitbook/](https://chiahung-lin.gitbooks.io/gitbook/)
 
 
-
-eBook:  [https://chiahung-lin.gitbooks.io/gitbook/](https://chiahung-lin.gitbooks.io/gitbook/)
 

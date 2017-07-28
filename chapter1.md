@@ -1,3 +1,6 @@
-# First Chapter
+# 如何開始 GitBook
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+### 首先進入GitBook的網站: [https://www.gitbook.com/](https://www.gitbook.com/)
+
+![](/assets/first_20170727.png)
+

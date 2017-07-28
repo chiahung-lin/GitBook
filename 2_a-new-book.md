@@ -6,7 +6,7 @@
 
 其網址是www.gitbook.com/
 
-&lt;font color="red"&gt;紅色字體&lt;/font&gt;
+<font color="red">紅色字體</font>
 
 \(使用者名稱\)
 

@@ -1,6 +1,6 @@
 # 如何開始 GitBook
 
-### 首先進入GitBook的網站: [https://www.gitbook.com/](https://www.gitbook.com/)
+### 首先進入GitBook的網站: [https://www.gitbook.com/](https://www.gitbook.com/) 
 
 ### ![](/assets/1_0_Homepage.png)
 

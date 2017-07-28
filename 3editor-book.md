@@ -6,7 +6,7 @@ Step 1 :請先新增一本書 +New Book
 
 ![](/assets/3_0editor_book.png)
 
-Step 2 :新增書本類型與名稱\(此名稱將會是書本的網址\)
+Step 2 :新增書本類型與名稱\(此名稱將會是書本的網址\) 
 
 ![](/assets/3_1editor_book.png)
 
@@ -19,6 +19,4 @@ Step 3:編輯完請按Publish\(才會進行存檔的動作\)
 ![](/assets/3_3editor_book.png)
 
 完成後就可以將書分享給大家!!
-
-
 

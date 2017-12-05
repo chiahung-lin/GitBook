@@ -8,3 +8,9 @@ Step 1 :請先下載安裝檔案
 
 ![](/assets/4_1_editor_web.png)
 
+點選Download
+
+![](/assets/4_2 editor_download.png)
+
+下載後進行安裝與登入
+

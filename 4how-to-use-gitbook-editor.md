@@ -1,4 +1,4 @@
-# 使用GitBook Editor\(桌面板\)
+# 使用GitBook Editor\(電腦板\)
 
 介紹單機版本
 

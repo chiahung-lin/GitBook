@@ -4,13 +4,9 @@
 
 同步至Gitbook
 
-
-
-Web
+# Gitbook\(Web\)
 
 將Github同步至Gitbook
 
 將Gitbook同步至Github
-
-
 

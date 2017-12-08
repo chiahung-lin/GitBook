@@ -7,5 +7,5 @@
 * [4.How to use Gitbook Editor](4how-to-use-gitbook-editor.md)
 * [5.Sync](5sync.md)
   * [5-1 Sync Gitbook editor to Github](5sync/5-1-sync-gitbook-editor-to-github.md)
-  * 5-2 Sync Gitbook editor to Gitbook\(Web\)
+  * [5-2 Sync Gitbook editor to Gitbook\(Web\)](5sync/5-2-sync-gitbook-editor-to-gitbookweb.md)
 

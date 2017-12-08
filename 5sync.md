@@ -2,7 +2,7 @@
 
 將Github同步至Gitbook
 
-1.
+1.在github上新增
 
 2.
 
